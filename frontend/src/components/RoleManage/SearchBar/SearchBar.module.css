@@ -1,0 +1,24 @@
+/* SearchBar.module.css */
+
+.searchBarContainer {
+    margin-bottom: 10px;
+  }
+  
+  .searchInput {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  .searchButton {
+    padding: 8px;
+    cursor: pointer;
+  }
+  .resetButton {
+    background-color: #f44336;
+    color: white;
+    margin-left: 8px;
+  }
+  
+  .resetButton:hover {
+    background-color: #d32f2f;
+  }

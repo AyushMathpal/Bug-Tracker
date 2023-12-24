@@ -1,0 +1,37 @@
+/* ProjectDashboard.module.css */
+
+.projectDashboard {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  .table td {
+    white-space: nowrap;
+  }
+  
+  .table td a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .table td a:hover {
+    text-decoration: underline;
+  }
+  

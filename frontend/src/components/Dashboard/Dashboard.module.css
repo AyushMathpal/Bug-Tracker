@@ -1,0 +1,21 @@
+.graph_component{
+  display: flex;
+  flex-direction: column;
+}
+.graph_item{
+    width: 40%;
+    
+}
+.second_row{
+  margin-left: 7rem;  
+}
+.graph_item:first-child{
+    align-self: center;
+}
+.first_row>div:nth-child(2){
+    width: 25%;
+}
+.first_row{
+    display: flex;
+    justify-content: space-around;
+}

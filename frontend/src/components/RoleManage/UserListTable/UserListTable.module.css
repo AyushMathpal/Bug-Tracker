@@ -1,0 +1,38 @@
+/* UserListTable.module.css */
+
+.userListTable {
+    margin: 20px;
+    width: 50%;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* SearchBar.module.css */
+  
+  .searchBar {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
